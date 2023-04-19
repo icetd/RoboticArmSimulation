@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icons/collide_all.png</file>
+        <file>resources/icons/collide_end.png</file>
+        <file>resources/icons/collide_none.png</file>
+        <file>resources/icons/collision.png</file>
+        <file>resources/icons/grid.png</file>
+        <file>resources/icons/objects.png</file>
+        <file>resources/icons/robot.png</file>
+        <file>resources/icons/alpha_blending.png</file>
+        <file>resources/icons/reset_camera.png</file>
+        <file>resources/icons/delete.png</file>
+        <file>resources/icons/exit.png</file>
+        <file>resources/icons/reset.png</file>
+        <file>resources/icons/warning.png</file>
+        <file>resources/icons/rotate_x.png</file>
+        <file>resources/icons/rotate_y.png</file>
+        <file>resources/icons/rotate_z.png</file>
+        <file>resources/icons/move_x.png</file>
+        <file>resources/icons/move_y.png</file>
+        <file>resources/icons/move_z.png</file>
+        <file>resources/icons/link_pos.png</file>
+        <file>resources/icons/path.png</file>
+        <file>resources/icons/open.png</file>
+        <file>resources/icons/ok.png</file>
+        <file>resources/icons/cancel.png</file>
+        <file>resources/icons/robot_path.png</file>
+        <file>resources/icons/play.png</file>
+        <file>resources/icons/stop.png</file>
+        <file>resources/icons/pause.png</file>
+        <file>resources/icons/home.png</file>
+        <file>resources/icons/global.png</file>
+        <file>resources/icons/local.png</file>
+        <file>resources/icons/coordinates.png</file>
+        <file>resources/icons/new.png</file>
+        <file>resources/icons/export_data.png</file>
+        <file>resources/icons/export_graph.png</file>
+        <file>resources/icons/save_as.png</file>
+        <file>resources/icons/link_add.png</file>
+        <file>resources/icons/table_clear.png</file>
+        <file>resources/icons/new_robot.png</file>
+        <file>resources/icons/table_link.png</file>
+        <file>resources/icons/tools.png</file>
+    </qresource>
+</RCC>
