@@ -1,3 +1,3 @@
-# RobotArmSimulation
+# RoboticArmSimulation
 
 ![](png/robot.png)
