@@ -1,5 +1,5 @@
-#ifndef QDYNMESH_H
-#define QDYNMESH_H
+#ifndef RASMESH_H
+#define RASMESH_H
 
 #include <QString>
 #include <QFile>
@@ -59,4 +59,4 @@ private:
     void computeFaceNormals();
 };
 
-#endif // QDYNMESH_H
+#endif // RASMESH_H

@@ -1,5 +1,5 @@
-#ifndef QDYNMATRIX_H
-#define QDYNMATRIX_H
+#ifndef RASMATRIX_H
+#define RASMATRIX_H
 
 #include <QList>
 
@@ -31,4 +31,4 @@ public:
     QList<double*> data;
 };
 
-#endif // QDYNMATRIX_H
+#endif // RASMATRIX_H

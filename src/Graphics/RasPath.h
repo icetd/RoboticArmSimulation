@@ -1,5 +1,5 @@
-#ifndef QDYNPATH_H
-#define QDYNPATH_H
+#ifndef RASPATH_H
+#define RASPATH_H
 
 #include <QString>
 #include <QFile>
@@ -31,4 +31,4 @@ public:
 
 };
 
-#endif // QDYNPATH_H
+#endif // RASPATH_H

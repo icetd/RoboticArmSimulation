@@ -1,5 +1,5 @@
-#ifndef QDYNLINK_H
-#define QDYNLINK_H
+#ifndef RASLINK_H
+#define RASLINK_H
 
 #include <QString>
 #include "RasMath.h"
@@ -73,4 +73,4 @@ public:
 
 };
 
-#endif // QDYNLINK_H
+#endif // RASLINK_H

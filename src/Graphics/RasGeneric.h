@@ -1,5 +1,5 @@
-#ifndef QDYNGENERIC_H
-#define QDYNGENERIC_H
+#ifndef RASGENERIC_H
+#define RASGENERIC_H
 
 #include <QStringList>
 #include "RasMatrix.h"
@@ -21,4 +21,4 @@ public:
     static RasMatrix* matrixFromString(QString matStr);
 };
 
-#endif // QDYNGENERIC_H
+#endif // RASGENERIC_H

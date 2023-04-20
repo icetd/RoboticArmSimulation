@@ -1,5 +1,5 @@
-#ifndef QDYNMATH_H
-#define QDYNMATH_H
+#ifndef RASMATH_H
+#define RASMATH_H
 
 #include <math.h>
 #include <QDebug>
@@ -79,4 +79,4 @@ public:
     static void printMatrix(RasMatrix *M);
 };
 
-#endif // QDYNMATH_H
+#endif // RASMATH_H

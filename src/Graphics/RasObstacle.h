@@ -1,5 +1,5 @@
-#ifndef QDYNOBSTACLE_H
-#define QDYNOBSTACLE_H
+#ifndef RASOBSTACLE_H
+#define RASOBSTACLE_H
 
 #include <QString>
 #include <RasMesh.h>
@@ -32,4 +32,4 @@ public:
     bool isColliding;
 };
 
-#endif // QDYNOBSTACLE_H
+#endif // RASOBSTACLE_H

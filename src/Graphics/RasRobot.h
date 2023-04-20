@@ -1,5 +1,5 @@
-#ifndef QDYNROBOT_H
-#define QDYNROBOT_H
+#ifndef RASROBOT_H
+#define RASROBOT_H
 
 #include "RasLink.h"
 #include "RasRobotPath.h"
@@ -85,4 +85,4 @@ public slots:
 
 };
 
-#endif // QDYNROBOT_H
+#endif // RASROBOT_H

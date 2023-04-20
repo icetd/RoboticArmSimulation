@@ -1,5 +1,5 @@
-#ifndef QDYNROBOTPATH_H
-#define QDYNROBOTPATH_H
+#ifndef RASROBOTPATH_H
+#define RASROBOTPATH_H
 
 #include "RasPath.h"
 
@@ -17,4 +17,4 @@ public:
     double speed;
 };
 
-#endif // QDYNROBOTPATH_H
+#endif // RASROBOTPATH_H

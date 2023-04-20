@@ -1,5 +1,5 @@
-#ifndef QDYNROBOTTHREAD_H
-#define QDYNROBOTTHREAD_H
+#ifndef RASROBOTTHREAD_H
+#define RASROBOTTHREAD_H
 
 #include <QThread>
 #include "RasRobot.h"
@@ -32,4 +32,4 @@ public slots:
     void processState(int procType, int percentage);
 };
 
-#endif // QDYNROBOTIKTHREAD_H
+#endif // RASROBOTIKTHREAD_H
